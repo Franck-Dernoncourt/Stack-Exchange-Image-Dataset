@@ -26,7 +26,7 @@ Example: TODO
 
 Total number of images: 8,737,759 images. Size: 857,964,647,071 bytes (~799 GiB, or ~858 GB).
 
-Count by extension:
+Image count by extension:
 
 - `.gif`: TODO images
 - `.jpg`: TODO images 
