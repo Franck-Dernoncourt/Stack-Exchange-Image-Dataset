@@ -26,12 +26,13 @@ Example: TODO
 
 Total number of images: 8,737,759 images. Size: 857,964,647,071 bytes (~799 GiB, or ~858 GB).
 
-Image count by extension:
+Image count by extension (using this [command](https://askubuntu.com/a/749005/44876)):
 
-- `.gif`: TODO images
-- `.jpg`: TODO images 
-- `.png`: TODO images
-
+- `.gif`: `206,096` images
+- `.jpg`: `1,675,282` images 
+- `.png`: `6,856,303` images
+- 78 files have some other extension (8,737,759 - (206,096 +1,675,282 + 6,856,303) = 78). I don't know where they came from, but it's rather negligible so let's just ignore them for now.
+ 
 Plot by creation date: TODO.
 
 
