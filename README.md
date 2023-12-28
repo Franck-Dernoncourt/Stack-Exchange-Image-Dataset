@@ -16,7 +16,7 @@ Each filename on i.stack.imgur.com has the following format: 5 chars followed by
 
 The i.stack.imgur.com filenames were kept: the first letter of the filename is used for the level-1 folder, and the second letter of the filename is used for the level-2 folder.
 
-The dataset comprises 62 zip files: the zip file where an image is stored corresponds to the first letter if the filename (`0.zip`, `1.zip`, [...], `a.zip`, `b.zip`, [...], `A.zip`, `B.zip`, ...).
+The dataset comprises 62 zip files: the zip file where an image is stored corresponds to the first letter if the filename (`0.zip`, `1.zip`, ..., `9.zip`, `a.zip`, `b.zip`, ..., `.zip`, `A.zip`, `B.zip`, ..., `.Z.zip`).
 
 Example: TODO
 
