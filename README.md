@@ -1,6 +1,6 @@
 # Stack Exchange Image Dataset
 
-The dataset can be downloaded at https://archive.org/download/stack-exchange-images (~800 GB).
+The dataset can be downloaded at https://archive.org/download/stack-exchange-images (~800 GiB).
 
 The dataset contains all the ~8.5 million images hosted on i.stack.imgur.com that are linked to in the post, post history and comments from the [Stack Exchange Data Dump dated 2023-12-08](https://archive.org/details/stack-exchange-data-dump-2023-12-08_20231222).
 
