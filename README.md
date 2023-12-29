@@ -33,7 +33,7 @@ Image count by extension (using this [command](https://askubuntu.com/a/749005/44
 - `.png`: `6,856,303` images
 - 78 files have some other extension (8,737,759 - (206,096 +1,675,282 + 6,856,303) = 78). I don't know where they came from, but it's rather negligible so let's just ignore them for now.
 
-99% of files are below 2 MiB, since that's the upload [limit](https://meta.stackexchange.com/q/261925/178179) on SE, however a few files are above 2 MiB. They can be found with this [command](https://stackoverflow.com/a/23925366/395857).
+Over 99% of the files are below 2 MiB, since that's the upload [limit](https://meta.stackexchange.com/q/261925/178179) on SE, however a few files are above 2 MiB. They can be found with this [command](https://stackoverflow.com/a/23925366/395857).
 
 Plot by creation date: TODO.
 
