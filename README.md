@@ -37,6 +37,8 @@ Over 99% of the files are below 2 MiB, since that's the upload [limit](https://m
 
 Plot by creation date: TODO.
 
+Plot by file size: TODO.
+
 
 # Citation
 
