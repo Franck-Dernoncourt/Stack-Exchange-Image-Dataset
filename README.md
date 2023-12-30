@@ -24,7 +24,7 @@ Example: TODO
 
 # Dataset Statistics
 
-Total number of images: 8,737,759 images. Size: 857,964,647,071 bytes (~799 GiB, or ~858 GB).
+Total number of images: 8,737,759 images. Size: 857,964,647,071 bytes (~799 GiB, i.e. ~858 GB).
 
 Image count by extension (using this [command](https://askubuntu.com/a/749005/44876)):
 
