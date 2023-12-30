@@ -20,7 +20,7 @@ The dataset comprises 62 zip files: the zip file where an image is stored corres
 
 Example: TODO
 
-**Important**: you'll run into issues using the dataset with Windows because of the filenames in this dataset are case-sensitive (following i.stack.imgur.com naming convention), while [Windows mostly case-insensitive](https://superuser.com/q/165975/116475). To use Windows, one strategy would be to rename files (e.g., adding an underscore after any lowercase letter).
+**Important**: you'll run into issues using the dataset with Windows because of the filenames in this dataset are case-sensitive (following i.stack.imgur.com naming convention), while Windows [is](https://superuser.com/q/165975/116475) mostly case-insensitive. To use Windows, one strategy would be to rename files (e.g., adding an underscore after any lowercase letter).
 
 # Dataset Statistics
 
