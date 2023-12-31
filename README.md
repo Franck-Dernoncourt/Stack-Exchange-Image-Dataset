@@ -14,7 +14,7 @@ Each filename on i.stack.imgur.com has the following format: 5 chars followed by
 - Allowed chars: `0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ` (10 digits + 26 letters of the alphabet * 2 cases = 62 allowed chars)
 - Allowed extension: `.gif`, `.jpg` and `.png`.
 
-The i.stack.imgur.com filenames were kept. Note that the 5 chars are enough to identify an image, i.e. two images may [not](https://meta.stackexchange.com/q/395727/178179) share the same 5 chars (e.g., it's not possible to have both `hello.jpg` and `hello.png`).
+The i.stack.imgur.com filenames as well as the `Last-Modified` response HTTP header were kept. Note that the 5 chars are enough to identify an image, i.e. two images may [not](https://meta.stackexchange.com/q/395727/178179) share the same 5 chars (e.g., it's not possible to have both `hello.jpg` and `hello.png`).
 
 The dataset comprises 62 zip files: the zip file where an image is stored corresponds to the first letter if the filename (`0.zip`, `1.zip`, ..., `9.zip`, `a.zip`, `b.zip`, ..., `.zip`, `A.zip`, `B.zip`, ..., `.Z.zip`). Within the zip files, the folder structure is as followed: the first letter of the filename is used for the level-1 folder, and the second letter of the filename is used for the level-2 folder. 
 
