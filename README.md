@@ -18,7 +18,29 @@ The i.stack.imgur.com filenames as well as the `Last-Modified` response HTTP hea
 
 The dataset comprises 62 zip files: the zip file where an image is stored corresponds to the first letter if the filename (`0.zip`, `1.zip`, ..., `9.zip`, `a.zip`, `b.zip`, ..., `.zip`, `A.zip`, `B.zip`, ..., `.Z.zip`). Within the zip files, the folder structure is as followed: the first letter of the filename is used for the level-1 folder, and the second letter of the filename is used for the level-2 folder. 
 
-Example: TODO
+Example: 
+
+```
+.
+├── A
+│   ├── 0
+│   │   ├── A0gpf.png
+│   │   ├── A0mP1.jpg
+│   │   ├── A0z99.png
+│   ├── 1
+│   │   ├── A1Aaq.gif
+│   │   ├── A1pdf.png
+│   │   ├── A1t51.png
+├── M
+│   ├── b
+│   │   ├───Mb5AA.jpg
+│   │   ├── Mbm0z.jpg
+│   │   ├── Mbzas.gif
+│   ├── Z
+│   │   ├───MZ0zc.gif
+│   │   ├── MZ546.gif
+│   │   ├── MZa12.jpg
+```
 
 **Important**: one may run into issues using the dataset with Windows because the filenames in this dataset are case-sensitive (following i.stack.imgur.com naming convention), while Windows [is](https://superuser.com/q/165975/116475) mostly case-insensitive. E.g., if one uncompresses a zip file containing the files `hello.png` and `Hello.png`, only one file will remain once the extraction is completed. To use the dataset on Windows, one strategy would be to rename files (e.g., adding an underscore after any lowercase letter).
 
