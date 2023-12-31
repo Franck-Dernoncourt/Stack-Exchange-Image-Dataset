@@ -35,10 +35,6 @@ Image count by extension (using this [command](https://askubuntu.com/a/749005/44
 
 Over 99% of the files are below 2 MiB, since that's the upload [limit](https://meta.stackexchange.com/q/261925/178179) on SE, however a few files are [above](https://meta.stackexchange.com/q/395755/178179) 2 MiB. They can be found with this [command](https://stackoverflow.com/a/23925366/395857).
 
-Plot by creation date: TODO.
-
-Plot by file size: TODO.
-
 
 # Citation
 
