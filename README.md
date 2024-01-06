@@ -1,5 +1,7 @@
 # Stack Exchange Image Dataset
 
+[![DOI](https://zenodo.org/badge/736462226.svg)](https://github.com/Franck-Dernoncourt/Stack-Exchange-Image-Dataset)
+
 The dataset can be downloaded at https://archive.org/download/stack-exchange-images (~799 GiB).
 
 The dataset contains all the ~8.7 million images hosted on i.stack.imgur.com that are linked to in the posts, post histories and comments from the [Stack Exchange Data Dump dated 2023-12-08](https://archive.org/details/stack-exchange-data-dump-2023-12-08_20231222).
@@ -69,6 +71,7 @@ If you use this dataset in your research, please cite:
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
+  doi     = {10.5281/zenodo.10465913},
   howpublished = {\url{https://github.com/Franck-Dernoncourt/Stack-Exchange-Image-Dataset}}
 }
 ```
