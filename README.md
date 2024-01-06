@@ -73,7 +73,7 @@ If you use this dataset in your research, please cite:
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  doi     = {10.5281/zenodo.10465913},
+  doi = {10.5281/zenodo.10465913},
   howpublished = {\url{https://github.com/Franck-Dernoncourt/Stack-Exchange-Image-Dataset}}
 }
 ```
