@@ -1,6 +1,8 @@
 # Stack Exchange Image Dataset
 
-[![DOI](https://zenodo.org/badge/736462226.svg)](https://github.com/Franck-Dernoncourt/Stack-Exchange-Image-Dataset)
+[![DOI](https://zenodo.org/badge/736462226.svg)](https://github.com/Franck-Dernoncourt/Stack-Exchange-Image-Dataset) [![License: CC BY-SA](https://img.shields.io/badge/License-CC_BY--SA-blue.svg)](https://stackoverflow.com/help/licensing)
+
+
 
 The dataset can be downloaded at https://archive.org/download/stack-exchange-images (~799 GiB).
 
